@@ -1,111 +1,104 @@
 # Hi, I'm Dinesh 👋
 
-### Software Engineer | AI Systems | Full-Stack Developer
+### Software Engineer | AI Enthusiast | Full-Stack Developer
 
-I'm a Computer Science student passionate about building intelligent systems, scalable backend architectures, and developer tools.
-
-My interests lie at the intersection of
-
-- 🤖 Artificial Intelligence
-- 🧠 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚡ System Design
-- 🌐 Full Stack Development
-- 📊 Data Science
+I'm a Computer Science student passionate about building software that solves real-world problems. I enjoy working across the stack—from designing backend systems and APIs to building intuitive user interfaces—and I'm particularly interested in AI-powered applications and scalable system design.
 
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Working On
 
-### Signal DSL
-A domain-specific language for modeling signals, ontologies, inference engines, equilibrium models, and event-driven systems.
-
-### Multi-Agent RAG
-Building a retrieval system using vector search, graph retrieval, semantic search, and LLM orchestration.
-
-### AI Developer Tools
-Experimenting with parsers, simulation engines, compiler design concepts, and agentic workflows.
+- 🤖 AI-powered applications using LLMs
+- 🔍 Retrieval-Augmented Generation (RAG) systems
+- 🌐 Full-stack web applications
+- 📊 Machine Learning and Data Science projects
+- ⚡ Backend systems and REST APIs
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
-**Languages**
+### Languages
+- Java
+- Python
+- JavaScript
+- C++
+- SQL
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+### Frontend
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
 
-**Frontend**
+### Backend
+- Node.js
+- Express.js
+- Firebase
+- REST APIs
 
-React • HTML • CSS • Tailwind CSS
+### AI & Data
+- LangChain
+- ChromaDB
+- FAISS
+- Ollama
+- Groq
+- Pandas
+- NumPy
+- Scikit-learn
 
-**Backend**
-
-Node.js • Express • Firebase • REST APIs
-
-**AI / ML**
-
-LangChain • ChromaDB • FAISS • Ollama • Groq • FastEmbed • NetworkX
-
-**Tools**
-
-Git • GitHub • Docker • Postman • Figma • VS Code
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- Figma
+- VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-🧠 Signal DSL
+### 🔍 Hybrid RAG System
+Built a Retrieval-Augmented Generation pipeline using vector databases, semantic search, and LLMs to improve answer quality and document retrieval.
 
-> A complete DSL for signal processing, ontologies, inference, equilibrium modeling, statistical analytics, and event-action pipelines.
+### 🎓 Student Attendance System
+A Firebase-based attendance platform featuring authentication, QR-based attendance, real-time updates, and administrative tools.
 
-🔍 Hybrid RAG
+### 🧠 Machine Learning Projects
+Worked on predictive models, data preprocessing pipelines, and exploratory data analysis using Python and Scikit-learn.
 
-> Retrieval-Augmented Generation combining vector search, graph retrieval, and semantic ranking.
-
-🎓 Student Attendance System
-
-> Firebase-powered attendance platform with authentication, QR attendance, exports, and admin dashboard.
-
-📈 Mental Health Prediction
-
-> Machine learning pipeline for prediction and analytics using Python.
+### 🌐 Full-Stack Web Applications
+Developed responsive web applications with modern frontend frameworks and scalable backend services.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Multi-Agent Systems
+- System Design
+- Cloud Computing
 - Distributed Systems
-- Compiler Design
-- Kubernetes
-- Cloud Architecture
-- AI Infrastructure
+- AI Agents & LLM Applications
+- Software Architecture
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh566734&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh566734&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinesh566734&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinesh566734&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh566734&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinesh566734&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
+
+I'm always interested in collaborating on exciting projects, contributing to open source, or discussing software engineering and AI.
 
 - 💼 LinkedIn
 - 🌐 Portfolio
@@ -113,4 +106,4 @@ Git • GitHub • Docker • Postman • Figma • VS Code
 
 ---
 
-> *"I enjoy building systems that are simple to use, scalable to grow, and intelligent enough to solve real-world problems."*
+> *"Always learning. Always building."*
